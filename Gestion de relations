@@ -1,0 +1,7 @@
+CGA (Entité_2)  <=> Référentiel Entité _ Transfo (Entité_2)  // Sens unique 
+CGA (ID TRISKELL) <=> Base_Infos_PRJ (ID TRISKELL)  // Sens unique
+CGA (Période_Bis) <=> Date (Période)  // Sens unique
+
+Conso (Entité)  <=> Référentiel Entité _ Transfo (Entité_2)  // Sens unique 
+Conso (ID TRISKELL) <=> Base_Infos_PRJ (ID TRISKELL)  // Sens unique
+Conso (Période) <=> Date (Période)  // Sens unique
